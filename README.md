@@ -1,1 +1,2 @@
-# SE-Micro-Projet-Le-jeux-du-Moulin-en-ligne-avec-plusieurs-joueurs
+# NineMensMorris
+CSc 448 Artificial Intelligence Homework # 1
